@@ -8,7 +8,7 @@ function mostrarCabecalho() {
 
 }
 function mostrarMenu() {
-    console.log("\n--- Fala alguma coisa aê ---");
+    console.log("\n<<< Fala alguma coisa aê >>>");
     console.log("[1] Faça um top 3 melhores vocalistas de rock da atualidade ");
     console.log("[2] Conte uma curiosidade sobre o Homem-Aranha");
     console.log("[3] Me diga o que tu fez com a Alexa");
@@ -16,7 +16,7 @@ function mostrarMenu() {
     console.log("[5] Me conte qual o melhor console portátil");
     console.log("[6] Avaliar o bot");
     console.log("[7] Sair");
-    console.log("------------------------------------");
+    console.log("<><><><><><><><>");
 }
 
 function topVocalistas() {
